@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Calculator</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright©ZakatItuRukunIslam</string>
+    <string name="developer">NAME: MOHAMAD ASYRAF BIN AZMI</string>
+    <string name="devId">STUDENT ID: 2020482932</string>
+    <string name="group">GROUP: D1CS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+
+</resources>
